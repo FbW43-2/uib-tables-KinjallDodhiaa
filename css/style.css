@@ -1,0 +1,36 @@
+html,
+body {
+  margin: 0;
+}
+
+header h1 {
+  text-align: center;
+  border-bottom: 1px SOLID gainsboro;
+  padding: 20px;
+}
+
+.main-container {
+  max-width: 1160px;
+  width: 60%;
+  padding: 20px;
+  height: 100vh;
+}
+
+.margin-0-auto {
+  margin: 0 auto;
+}
+
+th,
+td {
+  padding: 50px;
+  border: 1px solid gainsboro;
+}
+
+table {
+  border: 1px solid gainsboro;
+  border-collapse: collapse;
+}
+
+thead {
+  background-color: lightblue;
+}
